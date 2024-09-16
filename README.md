@@ -1,4 +1,4 @@
-# Slot Machine Game Documentation
+# Slot Machine Game 
 
 ## Game Overview
 
