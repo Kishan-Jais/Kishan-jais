@@ -46,3 +46,12 @@ Thank you for your interest in the Slot Machine Game project!
 ---
 
 *Happy spinning!*
+
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kishan-Jais&show_icons=true&theme=tokyonight)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kishan-Jais&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Kishan-Jais&theme=tokyonight)
